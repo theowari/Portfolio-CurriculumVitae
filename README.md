@@ -23,15 +23,10 @@ O projeto ainda está em evolução e será ajustado com o tempo, conforme avan�
 - Cursos complementares e especializações
 - Links para redes sociais e contato
 
-## 🚀 Como visualizar o projeto
+## 🌐 Acesse o Currículo Online
 
-Você pode abrir o arquivo `index.html` diretamente no seu navegador ou fazer o deploy com o GitHub Pages seguindo estes passos:
+🔗 [Clique aqui para visualizar o currículo online](https://theowari.github.io/Portfolio-CurriculumVitae/)
 
-1. Faça um fork ou clone do repositório.
-2. Vá até as configurações do seu repositório.
-3. Acesse a aba "Pages".
-4. Selecione a branch principal e a pasta `/root`.
-5. O GitHub irá gerar um link público com seu currículo online!
 
 ## 📌 Objetivo do projeto
 
