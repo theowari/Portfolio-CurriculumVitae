@@ -44,4 +44,4 @@ Este repositório faz parte do meu portfólio de estudos e tem dois propósitos 
 
 ---
 
-Feito com 💻 e dedicação por João Otávio Melqui.
+Feito com dedicação por João Otávio Melqui.
