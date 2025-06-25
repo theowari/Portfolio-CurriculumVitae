@@ -5,7 +5,9 @@
 }
 
 body {
-  padding: 25px;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
   width: 80%;
   margin: auto;
   max-width: 1500px;
@@ -73,20 +75,30 @@ h1 {
   margin-bottom: 50px;
   font-weight: bold;
 }
-
+.professional-goal p {
+  text-align: center;
+}
 .professional-exp article {
   padding: 10px;
   margin-top: 0;
 }
 
 section {
-  text-align: justify;
   border-radius: 10px;
   background-color: #fff;
   padding: 20px;
   margin-bottom: 50px;
 }
+.feats li {
+  margin-left: -20px;
+}
+section p {
+  text-align: justify;
+}
 
+.date {
+  font-size: 16px;
+}
 /* FIM LAYOUT DAS SECTIONS */
 
 /* INICIO HEADERS MAIN */
@@ -101,13 +113,14 @@ h2 {
 }
 
 h3 {
+  max-width: 75%;
   font-size: 1.25em;
   margin-bottom: 0;
 }
 /* FIM HEADERS MAIN */
 
 /* INICIO LINKS */
-a {
+a:link {
   text-decoration: none;
 }
 
@@ -116,3 +129,22 @@ a:hover {
 }
 
 /* FIM LINKS */
+
+/* INICIO FOOTER */
+.contact-info {
+  background-color: #b4b4b4;
+  font-size: 14px;
+  border-radius: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.contact-info a {
+  font-weight: bold;
+}
+
+.contact-info li {
+  font-size: 10px;
+  list-style-type: none;
+  text-align: center;
+}
+/* FIM FOOTER */
